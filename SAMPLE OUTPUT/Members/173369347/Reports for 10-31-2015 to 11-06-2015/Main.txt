@@ -1,0 +1,18 @@
+Member name: Joe Perry
+Member number: 173369347
+Member street address: 3370 B Street
+Member city: Utica
+Member state: NY
+Member zip code: 13501
+
+Below is your weekly member report of all services provided to you for the
+dates of 10-31-2015 to 11-06-2015:
+
+	Date of service: 11-03-2015
+	Provider name: Disturbed
+	Service name: Book Club
+
+	Date of service: 11-03-2015
+	Provider name: Disturbed
+	Service name: Haircare
+

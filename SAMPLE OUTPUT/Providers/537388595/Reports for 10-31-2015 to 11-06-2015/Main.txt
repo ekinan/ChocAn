@@ -1,0 +1,40 @@
+Provider name: Lamb of God
+Provider number: 537388595
+Provider street address: 663 Race Street
+Provider city: Point Pleasant Beach
+Provider state: NJ
+Provider zip code: 08742
+
+Below is your weekly provider report of all services provided by you for the
+dates of 10-31-2015 to 11-06-2015:
+
+	Date of service: 11-03-2015
+	Date and time data were received by the computer: 11-03-2015 16:00:00
+	Member name: Matt Shadows
+	Member code: 376960252
+	Service code: 811448
+	Fee to be paid: $8.00
+
+	Date of service: 11-03-2015
+	Date and time data were received by the computer: 11-03-2015 17:00:00
+	Member name: Matt Shadows
+	Member code: 376960252
+	Service code: 886669
+	Fee to be paid: $22.00
+
+	Date of service: 11-03-2015
+	Date and time data were received by the computer: 11-03-2015 18:00:00
+	Member name: Sebastian Bach
+	Member code: 523825798
+	Service code: 811448
+	Fee to be paid: $8.00
+
+	Date of service: 11-03-2015
+	Date and time data were received by the computer: 11-03-2015 19:00:00
+	Member name: Sebastian Bach
+	Member code: 523825798
+	Service code: 886669
+	Fee to be paid: $22.00
+
+Total number of consultations with members: 4
+Total fee for the week: $60.00

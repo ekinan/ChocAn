@@ -1,0 +1,27 @@
+This is the summary report. Below you will find all of the providers that need to be
+paid for that week, the number of consultations that each of them had, and the total
+amount that needs to be paid to them.
+
+Provider name: Disturbed
+Number of consultations: 4
+Overall fee total: $40.00
+
+Provider name: Guns n Roses
+Number of consultations: 4
+Overall fee total: $50.00
+
+Provider name: Lamb of God
+Number of consultations: 4
+Overall fee total: $60.00
+
+Provider name: Avenged Sevenfold
+Number of consultations: 4
+Overall fee total: $150.00
+
+Provider name: Black Label Society
+Number of consultations: 4
+Overall fee total: $240.00
+
+Total number of providers who provided services: 5
+Total consultations: 20
+Total fees: $540.00

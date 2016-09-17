@@ -1,0 +1,18 @@
+Member name: Zakk Wylde
+Member number: 241105707
+Member street address: 407 2nd Street West
+Member city: Salem
+Member state: MA
+Member zip code: 51970
+
+Below is your weekly member report of all services provided to you for the
+dates of 10-31-2015 to 11-06-2015:
+
+	Date of service: 11-03-2015
+	Provider name: Guns n Roses
+	Service name: Electric Guitar Lessons
+
+	Date of service: 11-03-2015
+	Provider name: Guns n Roses
+	Service name: Jam Session
+

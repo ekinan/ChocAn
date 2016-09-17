@@ -1,0 +1,83 @@
+Below you will find the most updated list of ChocAn's members.
+There are currently 10.
+
+Member name: Joe Perry
+Member number: 173369347
+Member street address: 3370 B Street
+Member city: Utica
+Member state: NY
+Member zip code: 13501
+Member status: Valid
+
+Member name: Paul Stanley
+Member number: 212724624
+Member street address: 357 Maple Lane
+Member city: Brighton
+Member state: MA
+Member zip code: 82135
+Member status: Valid
+
+Member name: Zakk Wylde
+Member number: 241105707
+Member street address: 407 2nd Street West
+Member city: Salem
+Member state: MA
+Member zip code: 51970
+Member status: Valid
+
+Member name: Scott Gorham
+Member number: 258088296
+Member street address: 827 Cemetery Road
+Member city: Feasterville Trevose
+Member state: PA
+Member zip code: 19053
+Member status: Valid
+
+Member name: Matt Shadows
+Member number: 376960252
+Member street address: 9438 Meadow Street
+Member city: Kent
+Member state: OH
+Member zip code: 44240
+Member status: Valid
+
+Member name: Sebastian Bach
+Member number: 523825798
+Member street address: 157 Homestead Drive
+Member city: Hicksville
+Member state: NY
+Member zip code: 11801
+Member status: Valid
+
+Member name: Slash
+Member number: 589349066
+Member street address: 1447 White Street
+Member city: Linden
+Member state: NJ
+Member zip code: 37036
+Member status: Valid
+
+Member name: Axl Rose
+Member number: 654825371
+Member street address: 6307 Division Street
+Member city: Caldwell
+Member state: NJ
+Member zip code: 97006
+Member status: Valid
+
+Member name: Jimmy Page
+Member number: 691637510
+Member street address: 2591 York Street
+Member city: Philadelphia
+Member state: PA
+Member zip code: 19111
+Member status: Valid
+
+Member name: Ronnie James Dio
+Member number: 749132519
+Member street address: 164 Route 27
+Member city: Grand Forks
+Member state: ND
+Member zip code: 58201
+Member status: Valid
+

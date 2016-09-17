@@ -1,0 +1,18 @@
+Member name: Paul Stanley
+Member number: 212724624
+Member street address: 357 Maple Lane
+Member city: Brighton
+Member state: MA
+Member zip code: 82135
+
+Below is your weekly member report of all services provided to you for the
+dates of 10-31-2015 to 11-06-2015:
+
+	Date of service: 11-03-2015
+	Provider name: Disturbed
+	Service name: Book Club
+
+	Date of service: 11-03-2015
+	Provider name: Disturbed
+	Service name: Haircare
+

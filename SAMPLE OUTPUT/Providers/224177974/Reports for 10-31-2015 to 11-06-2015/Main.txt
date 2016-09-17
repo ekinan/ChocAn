@@ -1,0 +1,40 @@
+Provider name: Disturbed
+Provider number: 224177974
+Provider street address: 427 Beechwood Drive
+Provider city: Vista
+Provider state: CA
+Provider zip code: 92083
+
+Below is your weekly provider report of all services provided by you for the
+dates of 10-31-2015 to 11-06-2015:
+
+	Date of service: 11-03-2015
+	Date and time data were received by the computer: 11-03-2015 08:00:00
+	Member name: Joe Perry
+	Member code: 173369347
+	Service code: 449683
+	Fee to be paid: $5.00
+
+	Date of service: 11-03-2015
+	Date and time data were received by the computer: 11-03-2015 09:00:00
+	Member name: Joe Perry
+	Member code: 173369347
+	Service code: 706742
+	Fee to be paid: $15.00
+
+	Date of service: 11-03-2015
+	Date and time data were received by the computer: 11-03-2015 10:00:00
+	Member name: Paul Stanley
+	Member code: 212724624
+	Service code: 449683
+	Fee to be paid: $5.00
+
+	Date of service: 11-03-2015
+	Date and time data were received by the computer: 11-03-2015 11:00:00
+	Member name: Paul Stanley
+	Member code: 212724624
+	Service code: 706742
+	Fee to be paid: $15.00
+
+Total number of consultations with members: 4
+Total fee for the week: $40.00

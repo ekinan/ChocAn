@@ -1,0 +1,40 @@
+Provider name: Guns n Roses
+Provider number: 289840213
+Provider street address: 936 Dogwood Lane
+Provider city: Oshkosh
+Provider state: WI
+Provider zip code: 54901
+
+Below is your weekly provider report of all services provided by you for the
+dates of 10-31-2015 to 11-06-2015:
+
+	Date of service: 11-03-2015
+	Date and time data were received by the computer: 11-03-2015 12:00:00
+	Member name: Zakk Wylde
+	Member code: 241105707
+	Service code: 503557
+	Fee to be paid: $15.00
+
+	Date of service: 11-03-2015
+	Date and time data were received by the computer: 11-03-2015 13:00:00
+	Member name: Zakk Wylde
+	Member code: 241105707
+	Service code: 616936
+	Fee to be paid: $10.00
+
+	Date of service: 11-03-2015
+	Date and time data were received by the computer: 11-03-2015 14:00:00
+	Member name: Scott Gorham
+	Member code: 258088296
+	Service code: 503557
+	Fee to be paid: $15.00
+
+	Date of service: 11-03-2015
+	Date and time data were received by the computer: 11-03-2015 15:00:00
+	Member name: Scott Gorham
+	Member code: 258088296
+	Service code: 616936
+	Fee to be paid: $10.00
+
+Total number of consultations with members: 4
+Total fee for the week: $50.00

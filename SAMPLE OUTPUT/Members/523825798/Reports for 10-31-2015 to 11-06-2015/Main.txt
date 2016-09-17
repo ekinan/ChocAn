@@ -1,0 +1,18 @@
+Member name: Sebastian Bach
+Member number: 523825798
+Member street address: 157 Homestead Drive
+Member city: Hicksville
+Member state: NY
+Member zip code: 11801
+
+Below is your weekly member report of all services provided to you for the
+dates of 10-31-2015 to 11-06-2015:
+
+	Date of service: 11-03-2015
+	Provider name: Lamb of God
+	Service name: Tutoring
+
+	Date of service: 11-03-2015
+	Provider name: Lamb of God
+	Service name: Manicure
+

@@ -1,0 +1,18 @@
+Member name: Scott Gorham
+Member number: 258088296
+Member street address: 827 Cemetery Road
+Member city: Feasterville Trevose
+Member state: PA
+Member zip code: 19053
+
+Below is your weekly member report of all services provided to you for the
+dates of 10-31-2015 to 11-06-2015:
+
+	Date of service: 11-03-2015
+	Provider name: Guns n Roses
+	Service name: Electric Guitar Lessons
+
+	Date of service: 11-03-2015
+	Provider name: Guns n Roses
+	Service name: Jam Session
+

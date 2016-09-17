@@ -1,0 +1,40 @@
+Provider name: Black Label Society
+Provider number: 913219780
+Provider street address: 743 Spruce Street
+Provider city: Lakeland
+Provider state: FL
+Provider zip code: 33801
+
+Below is your weekly provider report of all services provided by you for the
+dates of 10-31-2015 to 11-06-2015:
+
+	Date of service: 11-04-2015
+	Date and time data were received by the computer: 11-04-2015 24:00:00
+	Member name: Jimmy Page
+	Member code: 691637510
+	Service code: 430476
+	Fee to be paid: $40.00
+
+	Date of service: 11-04-2015
+	Date and time data were received by the computer: 11-04-2015 01:00:00
+	Member name: Jimmy Page
+	Member code: 691637510
+	Service code: 453328
+	Fee to be paid: $80.00
+
+	Date of service: 11-04-2015
+	Date and time data were received by the computer: 11-04-2015 02:00:00
+	Member name: Ronnie James Dio
+	Member code: 749132519
+	Service code: 430476
+	Fee to be paid: $40.00
+
+	Date of service: 11-04-2015
+	Date and time data were received by the computer: 11-04-2015 03:00:00
+	Member name: Ronnie James Dio
+	Member code: 749132519
+	Service code: 453328
+	Fee to be paid: $80.00
+
+Total number of consultations with members: 4
+Total fee for the week: $240.00
